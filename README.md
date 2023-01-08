@@ -23,8 +23,8 @@
 
 <p align="center"><a href="https://git.io/streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ncocana&theme=github-dark-blue&hide_border=false&mode=weekly" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ncocana&theme=github_dark&show_icons=true" />
 </a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
