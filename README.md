@@ -25,8 +25,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ncocana&theme=github-dark-blue&hide_border=false&mode=weekly" />
 </a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ncocana&theme=github_dark&show_icons=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ncocana&theme=github_dark&show_icons=true" />
 </a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncocana&theme=github_dark&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ncocana&theme=github_dark&layout=compact" />
 </a></p>
