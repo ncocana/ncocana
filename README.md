@@ -9,7 +9,7 @@
 
 - 📄 **Know about my previous formation:** I have a title of [CFGM in *Sistemas Microinformáticos y Redes*](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html).
 
-- ⚡ **Fun fact:** I'm an [INTJ](https://www.16personalities.com/intj-personality) interested in reading, writing, and psychology.
+- ⚡ **Fun fact:** I'm an [INTJ](https://www.16personalities.com/intj-personality) interested in reading, artificial intelligence, and psychology.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
