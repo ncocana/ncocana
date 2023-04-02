@@ -5,7 +5,9 @@
 
 - 🌱 **I’m currently studying** a [CFGS in *Desarrollo de Aplicaciones Web*](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) in Intensive/Dual Modality at CIFP Francesc de Borja Moll.
 
-- 📫 **How to reach me:** ncocana@cifpfbmoll.eu
+- 📫 **How to reach me:**
+  - Institutional email: ncocana@cifpfbmoll.eu
+  - Professional email: ncocanamacias@gmail.com
 
 - 📄 **Know about my previous formation:** I have a title of [CFGM in *Sistemas Microinformáticos y Redes*](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html).
 
