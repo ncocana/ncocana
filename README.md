@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Noa Cocaña Macías</h1>
 <h3 align="center">A thoughtful student from Spain</h3>
 
-- 🌱 **I’m currently studying** a [CFGS in *Desarrollo de Aplicaciones Web*](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) in Intensive/Dual Modality at CIFP Francesc de Borja Moll.
+- 🌱 **I’m currently studying** a [CFGS in *Desarrollo de Aplicaciones Web*](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) at CIFP Francesc de Borja Moll.
 
 - 📫 **How to reach me:** ncocanamacias@gmail.com
 
