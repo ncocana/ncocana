@@ -15,20 +15,25 @@
 <p align="left">
 <!--   <h4 align="left">Programming Languagues:</h3> -->
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java" />
+      <img src="https://skillicons.dev/icons?i=python,java,php" />
   </a>
 <!--   <h4 align="left">Frontend Development:</h3> -->
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,vue" />
+  </a>
+  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/>
   </a>
 <!--   <h4 align="left">Databases:</h3> -->
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+  </a>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
   </a>
 <!--   <h4 align="left">Frameworks:</h3> -->
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flask,spring" />
+      <img src="https://skillicons.dev/icons?i=flask,spring,laravel" />
   </a>
 <!--   <h4 align="left">Scripting:</h3> -->
   <a href="https://skillicons.dev">
@@ -36,7 +41,7 @@
   </a>
 <!--   <h4 align="left">Others:</h3> -->
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,git,maven,docker,postman" />
+      <img src="https://skillicons.dev/icons?i=vscode,git,maven,gulp,webpack,docker,postman,netlify" />
   </a>
 </p>
 
