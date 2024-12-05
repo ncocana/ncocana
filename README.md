@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Noa Cocaña Macías</h1>
 <h3 align="center">A thoughtful student from Spain</h3>
 
-- 🌱 **I’m currently studying** a [CFGS in *Desarrollo de Aplicaciones Web*](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) at CIFP Francesc de Borja Moll.
+- 🌱 **I’m currently studying** a [CE in *Inteligencia Artifical y Big Data* (Especialization Curse in Artificial Intelligence and Big Data)](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-inteligencia-artificial-bigdata.html) at IEDIB.
 
 - 📫 **How to reach me:** ncocanamacias@gmail.com
 
-- 📄 **Know about my previous formation:** I have a title of [CFGM in *Sistemas Microinformáticos y Redes*](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html).
+- 📄 **Know about my previous formation:** I have a title of [CFGM in *Sistemas Microinformáticos y Redes*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html) and [CFGS in *Desarrollo de Aplicaciones Web*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html).
 
 - ⚡ **Fun fact:** I'm an [INTJ](https://www.16personalities.com/intj-personality) interested in reading, artificial intelligence, and psychology.
 
