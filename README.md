@@ -1,13 +1,14 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/117761602/211220562-e477ce99-93b3-42b1-9f1d-9d4352151c6a.gif" alt="Gato Trabajando Duro"></p>
 
 <h1 align="center">Hi 👋, I'm Noa Cocaña Macías</h1>
-<h3 align="center">A thoughtful student from Spain</h3>
-
-- 🌱 **I’m currently studying** a [CE in *Inteligencia Artifical y Big Data* (Especialization Curse in Artificial Intelligence and Big Data)](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-inteligencia-artificial-bigdata.html) at IEDIB.
+<h3 align="center">An introvert developer from Spain</h3>
 
 - 📫 **How to reach me:** ncocanamacias@gmail.com
 
-- 📄 **Know about my previous formation:** I have a title of [CFGM in *Sistemas Microinformáticos y Redes*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html) and [CFGS in *Desarrollo de Aplicaciones Web*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html).
+- 📄 **Know about my formation:**
+  - [CFGM *Sistemas Microinformáticos y Redes*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html)
+  - [CFGS *Desarrollo de Aplicaciones Web*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html)
+  - [CE *Inteligencia Artificial y Big Data*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-inteligencia-artificial-bigdata.html)
 
 - ⚡ **Fun fact:** I'm an [INTJ](https://www.16personalities.com/intj-personality) interested in reading, artificial intelligence, and psychology.
 
@@ -51,8 +52,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ncocana&theme=github-dark-blue&hide_border=false&mode=weekly" />
 </a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ncocana&theme=github_dark&show_icons=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ncocana&theme=github_dark&show_icons=true" />
 </a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ncocana&theme=github_dark&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ncocana&theme=github_dark&layout=compact" />
 </a></p>
